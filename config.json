@@ -1,0 +1,5 @@
+{
+  "adapter_type": "remote",
+  "api_key": "YOUR_API_KEY",
+  "local_model_name": "gpt2"
+}
